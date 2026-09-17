@@ -12,6 +12,10 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://octodex.github.com/images/mona-lovelace.jpg" width="220" alt="Mona Lovelace" />
+</p>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=noshin-03&theme=radical&no-frame=true&row=1&column=6" alt="noshin-03" />
@@ -38,6 +42,10 @@ deepening my backend skills with NestJS.
 + 🤝  Open to collaborating on well-scoped projects
 
 ```
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JxdjM3N3VuZHBzNmdjeWprYjBidXBqbGFhaHhoamp0MmFiaWprZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" alt="coding gif" />
+</p>
 
 ## `>> TECH_STACK`
 
