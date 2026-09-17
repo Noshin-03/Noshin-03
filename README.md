@@ -1,17 +1,105 @@
-<h1 align="center">Hi 👋, I'm Noshin Tabassum</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noshin-03" alt="noshin-03" /></a> </p>
-
-- 🔭 I’m currently working on [QR Code Generator](https://github.com/Noshin-03/QR-Code-Generator)
-
-- 🌱 I’m currently learning **NestJS**
-
-- 📫 How to reach me **bsse1503@iit.du.ac.bd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BD0,100:00B4D8&height=200&section=header&text=Hi%20there,%20I'm%20Noshin%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%40%20IIT,%20DU&descAlignY=55&descSize=18" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=6D5BD0&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+%2B+NestJS+stack;Currently+learning+NestJS+in+depth;Open+to+collaborating+on+cool+projects" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noshin-03&" alt="noshin-03" /></p>
+<p align="center">
+  <a href="mailto:bsse1503@iit.du.ac.bd"><img src="https://img.shields.io/badge/Email-6D5BD0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/noshin-03"><img src="https://img.shields.io/badge/GitHub-00B4D8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=noshin-03&theme=radical&no-frame=true&row=1&column=6" alt="noshin-03" />
+  </a>
+</p>
+
+## `>> ABOUT`
+
+```
+
+I'm a software engineering student at IIT, University of Dhaka.
+I enjoy building clean, functional projects and I'm currently
+deepening my backend skills with NestJS.
+
+```
+
+## `>> CURRENT_STATUS`
+
+```
+
++ 🔭  Working on: QR Code Generator
++ 🌱  Learning: NestJS
++ 📫  Reach me: bsse1503@iit.du.ac.bd
++ 🤝  Open to collaborating on well-scoped projects
+
+```
+
+## `>> TECH_STACK`
+
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/C-6D5BD0?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-6D5BD0?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-6D5BD0?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-6D5BD0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-6D5BD0?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-6D5BD0?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-6D5BD0?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-00B4D8?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/React-00B4D8?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-00B4D8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Backend**
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-2C7A4B?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-2C7A4B?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-2C7A4B?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+**Database**
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-B0206D?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-B0206D?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-B0206D?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-B0206D?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+**Tools**
+<p align="left">
+<img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-24292F?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-24292F?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-24292F?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+## `>> GITHUB_STATS`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noshin-03&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshin-03&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noshin-03&theme=radical&hide_border=true&background=00000000" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noshin-03/noshin-03/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:6D5BD0&height=100&section=footer" />
+</p>
