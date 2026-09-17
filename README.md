@@ -16,12 +16,6 @@
   <img src="https://octodex.github.com/images/mona-lovelace.jpg" width="220" alt="Mona Lovelace" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=noshin-03&theme=radical&no-frame=true&row=1&column=6" alt="noshin-03" />
-  </a>
-</p>
-
 ## `>> ABOUT`
 
 ```
@@ -93,10 +87,6 @@ deepening my backend skills with NestJS.
 
 ## `>> GITHUB_STATS`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noshin-03&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshin-03&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noshin-03&theme=radical&hide_border=true&background=00000000" />
@@ -104,10 +94,8 @@ deepening my backend skills with NestJS.
 
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noshin-03/noshin-03/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:6D5BD0&height=100&section=footer" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noshin-03/Noshin-03/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noshin-03/Noshin-03/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Noshin-03/Noshin-03/output/pacman-contribution-graph.svg">
+</picture>
